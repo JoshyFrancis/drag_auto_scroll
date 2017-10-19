@@ -1,4 +1,4 @@
-# DragX
+# Drag Scroll
 Extended Drag n Drop Library in Javascript
 I couldn't find a javascript drag and drop library which is capable of auto scrolling. So I made my own. I will update things when I get time. I am bad at explaining things. Please forgive me.
 <br>
