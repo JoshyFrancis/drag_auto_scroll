@@ -7,7 +7,7 @@ View a <a href="https://joshyfrancis.github.io/drag_auto_scroll/drag_auto_scroll
 See the inner scrolling of elements. Click on the draggable item with handle , press Enter key and use arrow keys to move item.
 # Features
   1. Mobile friendly
-  2. Autoscrolling
+  2. Nested auto scrolling
   3. No external dependency
   4. Cross browser ( IE9+)
   5. Keyboard interaction
